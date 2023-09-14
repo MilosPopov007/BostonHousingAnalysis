@@ -30,4 +30,8 @@ Use the model to make predictions on new (scaled) data.
 ## Conclusion
 This analysis provided valuable insights into the factors affecting housing prices in Boston suburbs. The XGBoost model was particularly effective in making predictions. Future work could explore deep learning techniques or more feature engineering for potentially improved performance.
 
+## References
+[ Boston Housing dataset ](https://www.kaggle.com/c/boston-housing)<br>
+[XGBoost Documentation](https://xgboost.readthedocs.io/en/latest/)<br>
+[SHAP Library](https://github.com/shap/shap)
 
