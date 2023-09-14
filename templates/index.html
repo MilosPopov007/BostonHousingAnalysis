@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Boston Housing Price Prediction</title>
+</head>
+<body>
+    <h2>Boston Housing Price Prediction</h2>
+    <form action="/" method="post">
+        <label for="crim">Crime Rate (CRIM):</label><br>
+        <input type="text" id="crim" name="crim"><br><br>
+
+        <label for="zn">Proportion of Residential Land Zoned for Large Lots (ZN):</label><br>
+        <input type="text" id="zn" name="zn"><br><br>
+
+        <label for="indus">Proportion of Non-Retail Business Acres (INDUS):</label><br>
+        <input type="text" id="indus" name="indus"><br><br>
+
+        <label for="chas">Charles River Proximity (CHAS):</label><br>
+        <input type="text" id="chas" name="chas"><br><br>
+
+        <label for="nox">Nitrogen Oxide Concentration (NOX):</label><br>
+        <input type="text" id="nox" name="nox"><br><br>
+
+        <label for="rm">Average Number of Rooms per Dwelling (RM):</label><br>
+        <input type="text" id="rm" name="rm"><br><br>
+
+        <label for="age">Proportion of Owner-Occupied Units Built Before 1940 (AGE):</label><br>
+        <input type="text" id="age" name="age"><br><br>
+
+        <label for="dis">Weighted Distance to Employment Centers (DIS):</label><br>
+        <input type="text" id="dis" name="dis"><br><br>
+
+        <label for="rad">Accessibility to Radial Highways (RAD):</label><br>
+        <input type="text" id="rad" name="rad"><br><br>
+
+        <label for="tax">Property Tax Rate (TAX):</label><br>
+        <input type="text" id="tax" name="tax"><br><br>
+
+        <label for="ptratio">Pupil-Teacher Ratio (PTRATIO):</label><br>
+        <input type="text" id="ptratio" name="ptratio"><br><br>
+
+        <label for="b">Proportion of Residents of African American Descent (B):</label><br>
+        <input type="text" id="b" name="b"><br><br>
+
+        <label for="lstat">Percentage of Lower Status Population (LSTAT):</label><br>
+        <input type="text" id="lstat" name="lstat"><br><br>
+
+        <input type="submit" value="Predict">
+    </form>
+    {% if prediction %}
+    <h3>Predicted House Price: {{ prediction }}</h3>
+    {% endif %}
+</body>
+</html>
