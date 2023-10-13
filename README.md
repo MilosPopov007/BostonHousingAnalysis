@@ -10,3 +10,25 @@ This project unleashes the power of various machine learning models to predict h
 * Data Analysis: Conducted thorough EDA to comprehend the data and derive insights.
 * Application Development: Implemented a Flask app to provide a user-friendly interface for making predictions with the developed model.
 
+📦BostonHousingAnalysis
+ ┣ 📂data
+ ┃ ┗ 📜BostonHousing.csv
+ ┣ 📂models
+ ┃ ┗ 📜best_xgboost_model.pkl
+ ┃ ┗ 📜data_scaler.pkl
+ ┣ 📂notebooks
+ ┃ ┗ 📜[All Notebooks]
+ ┣ 📂templates
+ ┃ ┗ 📜index.html
+ ┣ 📂static
+ ┃ ┗ 📜[ static files used in Flask app]
+ ┣ 📜app.py
+ ┗ 📜README.md
+🔍 What's Inside:
+
+* /data: Holds the foundational Boston Housing dataset.
+* /models: Safeguards the trained machine learning models and data scalers.
+* /notebooks: A collection of Jupyter notebooks detailing every step of the analysis and modeling process.
+* /templates: HTML templates to render the Flask app.
+* app.py: The script that brings the Flask app to life.
+* README.md: Your guide through this project - the document you're reading right now!
