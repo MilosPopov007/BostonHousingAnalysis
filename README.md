@@ -32,7 +32,7 @@ This project unleashes the power of various machine learning models to predict h
 * /templates: HTML templates to render the Flask app.
 * app.py: The script that brings the Flask app to life.
 * README.md: Your guide through this project - the document you're reading right now!
-n the Notebooks!
+
 
 
 
