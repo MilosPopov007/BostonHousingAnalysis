@@ -61,22 +61,22 @@ This dataset stands as a testament to the potential of machine learning in decip
 # Interactive Predictions with My Flask App
 Embark on a real-time exploration of housing price predictions with the Flask app I’ve developed, providing an immersive and interactive experience in the realm of data science and machine learning.
 
-🛠 How It Works:
-🔢 Input Your Data:
+🛠 How It Works:<br><br>
+🔢 Input Your Data
 
-Upon visiting the app's interface, you'll find fields where you can input various housing attributes, such as CRIM (per capita crime rate by town) and RM (average number of rooms per dwelling), among others, which are instrumental in predicting the median value of owner-occupied homes.
+Upon visiting the app's interface, you'll find fields where you can input various housing attributes, such as CRIM (per capita crime rate by town) and RM (average number of rooms per dwelling), among others, which are instrumental in predicting the median value of owner-occupied homes.<br><br>
 🏡 Receive Instant Predictions:
 
-After submitting your data, my meticulously trained model processes it immediately, producing a prediction that reflects the patterns and insights gleaned from the Boston Housing dataset.
+After submitting your data, my meticulously trained model processes it immediately, producing a prediction that reflects the patterns and insights gleaned from the Boston Housing dataset.<br><br>
 🔄 Explore & Iterate:
 
-Feel free to tinker with the input values, observing how alterations impact the predicted housing price, offering a hands-on experience in understanding the dynamics of housing price factors.
-🧠 Behind the Scenes:
-Model Training: The backend of the app relies on a model I trained using the Boston Housing dataset, ensuring predictions are rooted in comprehensive data analysis and robust machine learning modeling.
+Feel free to tinker with the input values, observing how alterations impact the predicted housing price, offering a hands-on experience in understanding the dynamics of housing price factors.<br><br>
+🧠 Behind the Scenes:<br><br>
+* Model Training: The backend of the app relies on a model I trained using the Boston Housing dataset, ensuring predictions are rooted in comprehensive data analysis and robust machine learning modeling.
 
-Data Preprocessing: I’ve implemented a mechanism where your input data is scaled using pre-saved parameters to mirror the model’s training data, ensuring that predictions are both accurate and reliable.
+* Data Preprocessing: I’ve implemented a mechanism where your input data is scaled using pre-saved parameters to mirror the model’s training data, ensuring that predictions are both accurate and reliable.
 
-Secure & Private: Rest assured, the data you input is used exclusively for prediction purposes and is not stored or shared.
+* Secure & Private: Rest assured, the data you input is used exclusively for prediction purposes and is not stored or shared.
 
 🎉 Dive In!
-I invite you to dive into this interactive exploration of Boston Housing Prices. Begin your journey, make predictions, and explore the intricate world of data and predictive modeling in a real-world context.
+I invite you to dive into this interactive exploration of Boston Housing Prices.<br> Begin your journey, make predictions, and explore the intricate world of data and predictive modeling in a real-world context.
