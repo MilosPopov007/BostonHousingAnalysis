@@ -39,7 +39,7 @@ The Boston Housing dataset, a cornerstone in the machine learning community, ser
 ## Dataset Attributes
 The dataset encapsulates 506 instances, each with the following attributes that describe various aspects of the housing conditions in Boston suburbs:
 
-*CRIM: Per capita crime rate by town.
+* CRIM: Per capita crime rate by town.
 * ZN: Proportion of residential land zoned for large lots.
 * INDUS: Proportion of non-retail business acres per town.
 * CHAS: Charles River dummy variable (equals 1 if tract bounds river; 0 otherwise).
