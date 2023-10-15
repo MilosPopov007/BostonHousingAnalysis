@@ -50,7 +50,7 @@ The dataset encapsulates 506 instances, each with the following attributes that 
 * RAD: Index of accessibility to radial highways.
 * TAX: Full-value property tax rate per $10,000.
 * PTRATIO: Pupil-teacher ratio by town.
-* B: Represents a measure related to the proportion of residents of African-American descent by town. The variable is thought to reflect the extent of segregation in the area.
+* B: Represents a measure related to the proportion of residents of African-American descent by town.<br> The variable is thought to reflect the extent of segregation in the area.
 * LSTAT: Percentage of lower status of the population.
 * MEDV: Median value of owner-occupied homes in $1000s (target variable).
 ## Significance of the Dataset
