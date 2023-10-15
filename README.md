@@ -34,7 +34,7 @@ This project unleashes the power of various machine learning models to predict h
 * README.md: Your guide through this project - the document you're reading right now!
 
 # Introduction to the Boston Housing Dataset
-The Boston Housing dataset, a cornerstone in the machine learning community, serves as a playground for aspiring data scientists and seasoned professionals alike to develop, experiment, and validate predictive models. Originating from the U.S Census Service, the dataset has been widely utilized in numerous studies and competitions, offering a rich and compact source of information for predictive analytics.
+The Boston Housing dataset, a cornerstone in the machine learning community, serves as a playground for aspiring data scientists and seasoned professionals alike to develop, experiment, and validate predictive models. Originating from the U.S. Census Service, the dataset has been widely utilized in numerous studies and competitions, offering a rich and compact source of information for predictive analytics.
 
 ## Dataset Attributes
 The dataset encapsulates 506 instances, each with the following attributes that describe various aspects of the housing conditions in Boston suburbs:
@@ -78,5 +78,5 @@ Feel free to tinker with the input values, observing how alterations impact the 
 
 * Secure & Private: Rest assured, the data you input is used exclusively for prediction purposes and is not stored or shared.
 
-🎉 Dive In!
-I invite you to dive into this interactive exploration of Boston Housing Prices.<br> Begin your journey, make predictions, and explore the intricate world of data and predictive modeling in a real-world context.
+🤝 Connect and Share Insights:
+Let's continue the dialogue! I invite you to connect with me on [LinkedIn](https://www.linkedin.com/in/milos-popov-d-u/), where we can further discuss insights, exchange feedback, or explore opportunities to collaborate.<br> Your thoughts and perspectives are invaluable – let's build and learn together!
