@@ -61,12 +61,12 @@ The dataset encapsulates 506 instances, each with the following attributes that 
 ## Significance of the Dataset
 The Boston Housing dataset is not merely a collection of numbers but a catalyst that allows us to delve deeper into the realm of predictive analysis and regression modeling. Its comprehensiveness and diversity in features, from crime rates to nitrogen oxide concentration, enable practitioners to explore various angles of regression modeling, feature importance, and model interpretation. Moreover, the challenges it poses with multicollinearity among features, outliers, and leverage points introduce individuals to nuanced aspects of model tuning and validation.
 
-This dataset stands as a testament to the potential of machine learning in deciphering patterns and making predictions in a real-world context. From simple linear regression models to advanced ensemble methods, the dataset provides a fertile ground for exploration, learning, and application of predictive modeling techniques in a meaningful context - predicting housing prices, an aspect integral to economic studies and policy-making.<br>
-![This is an image](https://github.com/MilosPopov007/BostonHousingAnalysis/blob/main/visualisations/3D.png)
+This dataset stands as a testament to the potential of machine learning in deciphering patterns and making predictions in a real-world context. From simple linear regression models to advanced ensemble methods, the dataset provides a fertile ground for exploration, learning, and application of predictive modeling techniques in a meaningful context - predicting housing prices, an aspect integral to economic studies and policy-making.<br><br>
+![This is an image](https://github.com/MilosPopov007/BostonHousingAnalysis/blob/main/visualisations/3D.png)<br>
 
 
 # Interactive Predictions with My Flask App
-Embark on a real-time exploration of housing price predictions with the Flask app I’ve developed, providing an immersive and interactive experience in the realm of data science and machine learning.
+Embark on a real-time exploration of housing price predictions with the Flask app I’ve developed, providing an immersive and interactive experience in the realm of data science and machine learning.<br>
 
 ![This is an image](https://github.com/MilosPopov007/BostonHousingAnalysis/blob/main/visualisations/Flask.png)
 
