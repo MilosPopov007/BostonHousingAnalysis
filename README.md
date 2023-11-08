@@ -21,17 +21,22 @@ This project unleashes the power of various machine learning models to predict h
  ┣ 📂templates
  ┃ ┗ 📜index.html
  ┣ 📂static
- ┃ ┗ 📜[ static files used in Flask app]
+ ┃ ┗ 📜[Static files used in Flask app]
  ┣ 📜app.py
+ ┣ 📜requirements.txt
  ┗ 📜README.md
+
 🔍 What's Inside:
 
-* /data: Holds the foundational Boston Housing dataset.
-* /models: Safeguards the trained machine learning models and data scalers.
-* /notebooks: A collection of Jupyter notebooks detailing every step of the analysis and modeling process.
-* /templates: HTML templates to render the Flask app.
-* app.py: The script that brings the Flask app to life.
-* README.md: Your guide through this project - the document you're reading right now!
+📂data: Contains the dataset used in the project.
+📂models: Stores the serialized models and scalers for prediction.
+📂notebooks: Includes all the Jupyter notebooks with exploratory and modeling work.
+📂templates: Holds the HTML files for the Flask app's frontend.
+📂static: Serves static files needed for the Flask app's styling and interactivity.
+📜app.py: The Flask application's main executable script.
+📜requirements.txt: The required libraries and dependencies to run the project.
+📜README.md: Provides a detailed guide to the project, its structure, and how to use it.
+
 
 # Introduction to the Boston Housing Dataset
 The Boston Housing dataset, a cornerstone in the machine learning community, serves as a playground for aspiring data scientists and seasoned professionals alike to develop, experiment, and validate predictive models. Originating from the U.S. Census Service, the dataset has been widely utilized in numerous studies and competitions, offering a rich and compact source of information for predictive analytics.
