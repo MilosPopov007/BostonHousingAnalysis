@@ -55,11 +55,11 @@ The dataset encapsulates 506 instances, each with the following attributes that 
 * RAD: Index of accessibility to radial highways.
 * TAX: Full-value property tax rate per $10,000.
 * PTRATIO: Pupil-teacher ratio by town.
-* B: Represents a measure related to the proportion of residents of African-American descent by town.<br> The variable is thought to reflect the extent of segregation in the area.
+* B: Proportion of residents of African-American descent by town, a metric that may reflect social and demographic factors.
 * LSTAT: Percentage of lower status of the population.
 * MEDV: Median value of owner-occupied homes in $1000s (target variable).
 ## Significance of the Dataset
-The Boston Housing dataset is not merely a collection of numbers but a catalyst that allows us to delve deeper into the realm of predictive analysis and regression modeling. Its comprehensiveness and diversity in features, from crime rates to nitrogen oxide concentration, enable practitioners to explore various angles of regression modeling, feature importance, and model interpretation. Moreover, the challenges it poses with multicollinearity among features, outliers, and leverage points introduce individuals to nuanced aspects of model tuning and validation.
+The Boston Housing dataset is not merely a collection of numbers but a catalyst that allows us to delve deeper into the realm of predictive analysis and regression modeling. Its comprehensiveness and diversity in features, from crime rates to nitrogen oxide concentration, enable practitioners to explore various angles of regression modeling, feature importance, and model interpretation. Moreover, it introduces challenges such as multicollinearity among features, outliers, and leverage points, guiding individuals through nuanced aspects of model tuning and validation.
 
 This dataset stands as a testament to the potential of machine learning in deciphering patterns and making predictions in a real-world context. From simple linear regression models to advanced ensemble methods, the dataset provides a fertile ground for exploration, learning, and application of predictive modeling techniques in a meaningful context - predicting housing prices, an aspect integral to economic studies and policy-making.<br><br>
 ![This is an image](https://github.com/MilosPopov007/BostonHousingAnalysis/blob/main/visualisations/3D.png)<br>
@@ -88,4 +88,4 @@ Feel free to tinker with the input values, observing how alterations impact the 
 * Secure & Private: Rest assured, the data you input is used exclusively for prediction purposes and is not stored or shared.
 
 🤝 Connect and Share Insights:
-Let's continue the dialogue! I invite you to connect with me on [LinkedIn](https://www.linkedin.com/in/milos-popov-d-u/), where we can further discuss insights, exchange feedback, or explore opportunities to collaborate.<br> Your thoughts and perspectives are invaluable – let's build and learn together!
+Let's continue the dialogue! I invite you to connect with me on [LinkedIn](https://www.linkedin.com/in/milos-popov-d-u/), where we can further discuss insights, exchange feedback, or explore opportunities to collaborate.<br><br> If you found this project useful or interesting, please consider giving it a star (⭐) to show your support! If you're feeling enthusiastic about contributing or would like to suggest enhancements, feel free to fork the repository and submit a pull request with your improvements.<br>Your thoughts and perspectives are invaluable – let's build and learn together!
