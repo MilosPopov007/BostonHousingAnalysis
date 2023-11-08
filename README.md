@@ -66,6 +66,8 @@ This dataset stands as a testament to the potential of machine learning in decip
 # Interactive Predictions with My Flask App
 Embark on a real-time exploration of housing price predictions with the Flask app I’ve developed, providing an immersive and interactive experience in the realm of data science and machine learning.
 
+![This is an image](https://github.com/MilosPopov007/BostonHousingAnalysis/blob/main/visualisations/Flask.png)
+
 🛠 How It Works:<br><br>
 🔢 Input Your Data
 
