@@ -28,14 +28,14 @@ This project unleashes the power of various machine learning models to predict h
 
 🔍 What's Inside:
 
-📂data: Contains the dataset used in the project.
-📂models: Stores the serialized models and scalers for prediction.
-📂notebooks: Includes all the Jupyter notebooks with exploratory and modeling work.
-📂templates: Holds the HTML files for the Flask app's frontend.
-📂static: Serves static files needed for the Flask app's styling and interactivity.
-📜app.py: The Flask application's main executable script.
-📜requirements.txt: The required libraries and dependencies to run the project.
-📜README.md: Provides a detailed guide to the project, its structure, and how to use it.
+📂data: Contains the dataset used in the project.<br>
+📂models: Stores the serialized models and scalers for prediction.<br>
+📂notebooks: Includes all the Jupyter notebooks with exploratory and modeling work.<br>
+📂templates: Holds the HTML files for the Flask app's frontend.<br>
+📂static: Serves static files needed for the Flask app's styling and interactivity.<br>
+📜app.py: The Flask application's main executable script.<br>
+📜requirements.txt: The required libraries and dependencies to run the project.<br>
+📜README.md: Provides a detailed guide to the project, its structure, and how to use it.<br>
 
 
 # Introduction to the Boston Housing Dataset
